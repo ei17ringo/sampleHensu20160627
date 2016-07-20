@@ -105,6 +105,14 @@ class ViewController: UIViewController {
         print(seedkunDictionary["name"])
         
         // TODO:seedkunDictionaryの中身をすべて順にデバッグエリアに表示し、年齢を表示したあとは、「若いですね！」住んでるところを表示したあとは、「そうなんだ！」と表示せよ
+        
+        print(seedkunDictionary["name"])
+        print(seedkunDictionary["age"])
+        print("若いですね！")
+        print(seedkunDictionary["gender"])
+        print(seedkunDictionary["address"])
+        print("そうなんだ！")
+        
     
     }
 
